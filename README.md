@@ -30,7 +30,7 @@
 - ### MongoDB 面向文档存储的数据库
 
 - ### EasyExcel（对excel表格进行读和写操作）、RabbitMQ（发送mq消息）、Docker、阿里云OSS、阿里云短信服务、微信登录/支付...
-- 
+
 - ### [项目后端代码](https://github.com/HLlll-h/hospital_register)
 
 
